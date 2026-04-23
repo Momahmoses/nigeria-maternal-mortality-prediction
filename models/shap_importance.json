@@ -1,0 +1,22 @@
+{
+  "geopolitical_zone": 0.28701120615005493,
+  "haemoglobin_gdl": 0.13101209700107574,
+  "age": 0.11884596943855286,
+  "antenatal_visits": 0.11443137377500534,
+  "time_to_hospital_min": 0.10648302733898163,
+  "state": 0.10635484009981155,
+  "systolic_bp": 0.10570640861988068,
+  "diastolic_bp": 0.10095975548028946,
+  "bmi": 0.09040436893701553,
+  "gestational_age_weeks": 0.06647143512964249,
+  "gravida": 0.06561584025621414,
+  "skilled_birth_attendant": 0.06451664865016937,
+  "prev_complication": 0.0417739674448967,
+  "parity": 0.04066802188754082,
+  "prev_caesarean": 0.013002988882362843,
+  "diabetes": 0.011602959595620632,
+  "rural": 0.010385943576693535,
+  "hiv_positive": 0.00759732723236084,
+  "preeclampsia": 0.004007990937680006,
+  "severe_anaemia": 0.0026617832481861115
+}
