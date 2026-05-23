@@ -4,13 +4,13 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-REST_API-green.svg)](https://fastapi.tiangolo.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-XGBoost + SHAP maternal mortality risk scoring for Nigerian Primary Health Centres — DHIS2-compatible REST API with SMS alerts for community health workers to intervene before emergencies occur.
+XGBoost + SHAP maternal mortality risk scoring for Nigerian Primary Health Centres, DHIS2-compatible REST API with SMS alerts for community health workers to intervene before emergencies occur.
 
 ---
 
 ## Problem Statement
 
-Nigeria accounts for ~20% of global maternal deaths — most are preventable with timely intervention. Community health workers lack a systematic risk screening tool for antenatal visits. This engine scores every pregnant woman's risk at registration and triggers alerts for high-risk cases.
+Nigeria accounts for ~20% of global maternal deaths, most are preventable with timely intervention. Community health workers lack a systematic risk screening tool for antenatal visits. This engine scores every pregnant woman's risk at registration and triggers alerts for high-risk cases.
 
 ---
 
@@ -60,5 +60,5 @@ uvicorn app:app --host 0.0.0.0 --port 8000
 
 ## Author
 
-**Momah Moses** — Geospatial AI Engineer & Data Scientist
+**Momah Moses**, Geospatial AI Engineer & Data Scientist
 [GitHub](https://github.com/Momahmoses) · [Portfolio](https://momahmoses-ng-gis-portfolio.hf.space)
